@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Slidoboss
-- 👀 I’m interested in ...Game dev,Embedded system
-- 🌱 I’m currently learning ...c#,c++, unity game development,
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Game dev, App development.
+- 🌱 I’m currently learning unity game development, C# and flutter.
+- 💞️ I’m looking to collaborate on mobile, webapp and game projects.
 - 📫 How to reach me ...
 
 <!---
