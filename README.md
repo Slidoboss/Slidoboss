@@ -1,6 +1,6 @@
 Hey there.
 
-My name is Soloudo, an experienced Mobile app developer i specialize in building cross platform applications using flutter and dart. In the near future i plan to include native IOS development in my arsenal of skills. I also occasionally build awesome games with unity and C#. In my free time i like to binge anime and read business books. 
+My name is Soloudo, an experienced mobile app developer; I specialize in building cross platform applications using flutter and dart. In the near future I plan to include native IOS development in my arsenal of skills. I also occasionally build awesome games with unity and C#. In my free time I like to binge tv shows, anime and movies; play games and read business books. 
 
 <!---
 Slidoboss/Slidoboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
