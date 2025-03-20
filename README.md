@@ -5,7 +5,10 @@ Hey there✌🏾.
 My name is Soloudo, an experienced mobile app developer; I specialize in building cross platform applications using flutter and dart. In the near future I plan to include native IOS development in my arsenal of skills. I also occasionally build awesome games with unity and C#. In my free time I like to binge tv shows, anime and movies; play games and read business books. 
 
 ## Languages and Tools
-https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg
+![Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg) 
+![Dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
+![VScode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
+![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg)
 <!---
 Slidoboss/Slidoboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
