@@ -21,10 +21,22 @@ These are the tools I'm experienced with at the moment.
 </div>
 
 ## 🔥 My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Slidoboss&theme=dracula&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slidoboss&show_icons=true&theme=dracula&border_radius=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slidoboss&layout=compact&theme=dracula&border_radius=30)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Slidoboss&theme=dracula&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://git.io/streak-stats">
+  <img height=300 align="center" src="https://streak-stats.demolab.com?user=Slidoboss&theme=dracula&border_radius=30&date_format=j%20M%5B%20Y%5D" />
+</a>
+
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Slidoboss&show_icons=true&theme=dracula&border_radius=30" />
+</a>
+
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slidoboss&layout=compact&theme=dracula&border_radius=30" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Slidoboss&theme=dracula&border_radius=30" />
+</a>
 <!---
 Slidoboss/Slidoboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
