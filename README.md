@@ -34,7 +34,7 @@ These are the tools I'm experienced with at the moment.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slidoboss&layout=compact&theme=dracula&border_radius=30" />
 </a>
 
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Slidoboss&theme=dracula&border_radius=30" />
 </a>
 <!---
