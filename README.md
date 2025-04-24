@@ -22,15 +22,15 @@ These are the tools I'm experienced with at the moment.
 
 ## 🔥 My Stats
 
-<a href="">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height=300 align="center" src="https://streak-stats.demolab.com?user=Slidoboss&theme=dracula&border_radius=30&date_format=j%20M%5B%20Y%5D" />
 </a>
 
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Slidoboss&show_icons=true&theme=dracula&border_radius=30" />
 </a>
 
-<a href="">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slidoboss&layout=compact&theme=dracula&border_radius=30" />
 </a>
 
