@@ -22,7 +22,7 @@ These are the tools I'm experienced with at the moment.
 
 ## 🔥 My Stats
 
-<a href="https://git.io/streak-stats">
+<a href="">
   <img height=300 align="center" src="https://streak-stats.demolab.com?user=Slidoboss&theme=dracula&border_radius=30&date_format=j%20M%5B%20Y%5D" />
 </a>
 
@@ -34,7 +34,7 @@ These are the tools I'm experienced with at the moment.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slidoboss&layout=compact&theme=dracula&border_radius=30" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Slidoboss&theme=dracula&border_radius=30" />
 </a>
 <!---
